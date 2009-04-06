@@ -1,4 +1,5 @@
 *.o
+area/players.num
 area/..tmp
 area/bugs.txt
 log/*.log
