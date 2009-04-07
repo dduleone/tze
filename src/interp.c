@@ -152,6 +152,7 @@ const   struct  cmd_type        cmd_table       [] =
     { "brief",          do_brief,       POS_DEAD,        0,  LOG_NORMAL },
     { "channels",       do_channels,    POS_DEAD,        0,  LOG_NORMAL },
     { "colour",         do_colour,      POS_DEAD,        0,  LOG_NORMAL },
+    { "color",         do_colour,      POS_DEAD,        0,  LOG_NORMAL },
     { "colist",		do_colist,	POS_DEAD,		0,  LOG_NORMAL },
     { "combine",        do_combine,     POS_DEAD,        0,  LOG_NORMAL },
     { "config",         do_config,      POS_DEAD,        0,  LOG_NORMAL },
