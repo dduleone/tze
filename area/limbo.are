@@ -15,23 +15,17 @@ S Title not shown on area list.
 #HELPS
 -1 ackmud~
 [This help page may NOT be removed...]
-
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-
          Ack!Mud 2.0 is Copyright (C)1995/6 Stimpy & Thalen
-
             Ack!Mud 4.1 by Zenithar, with mucho help from:
              Spectrum, Altrag, Flar, Universe, and Ramias
               and everyone else who contributed to Ack!Mud 4.1
-
  Ack! Mud is a deriative of Merc Muds, which are deriatives of Diku Muds.
  In order to run this code, you must observe the conditions of use
  of Merc and Diku.
-
  Conditions of use for Ack!Mud 4.1 are as follows:
  - Must retain copyright messages in all code.
  - Stimpy, Thalen and Zenithar must be credited on greeting screen.
-
  Thanks to:
  ...Maharet, Requiem and Rupert from the original Ack! for all their help.
  ...SoE for provding the official site for Ack!Mud
@@ -39,9 +33,7 @@ S Title not shown on area list.
    To contact Stimpy, E-Mail Stimpy@Bliss.Dungeon.Com <---sorry, invalid
     To contact Zenithar, the POC for Ack!Mud 4.1, email to :
       zenithar@atom.com
-
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=- 
-
 ~
 0 assist~
 @@yASSIST@@g is a command that allows you to assist any member of your group
@@ -49,11 +41,9 @@ in combat.  ASSIST by itself will attempt to have you assist your leader
 first, then each member of your group, in group order.
 Syntax:  assist <target>
          assist
-
 ~
 0 cybertown~
 @@yCybertown@@g is a VERY cool website!  Go check it out at:
-
 	http://www.cybertown.com
 Cybertown is a virtual city, online, built through the use of multiple 
 webpages.  It really is well worth the time to explore...while you're
@@ -74,7 +64,6 @@ level required to use it.  The max level of the player is not used.
 When casting spells, like above, the maximum level of THE CLASS THAT HAS ACCESS
 TO THAT SPELL is used.  This way a char who is Mag:2 and War:50 won't be able
 to cast 50th level Mage spells.
-
 Level gain is no longer automatic.  The GAIN command must now be used instead,
 to advance in the specified class.  See 'HELP GAIN' for more details.
 ~
@@ -84,7 +73,6 @@ INFO Board - 5 rooms west of Midgaard Temple, this is used to hold rules and
 	     general information.  Only Immortals can write on this board.
 IDEA Board - In Midgaard Temple, this is inteneded to be used by players to
 	     leave ideas for the mud.
-
 There is also a board for players to use, for personal messages, etc.  It is
 located 4 rooms west, 2 rooms south of Midgaard Temple.
 To use the boards, you must be in a room with one :)
@@ -123,7 +111,6 @@ post      - posts your note to the player you are writing to
 list      - lists all letters your have recieved, both old and new
 read #    - readds the message number specified
 remove #  - giving the number of which note, removes it from the list
-
 @@GExamples!!!!@@N
 If you were writing a letter to @@eCyberlich@@N this is how you would do it
 note to cyberlich
@@ -236,11 +223,9 @@ YELL sends a message to all awake players within your area.
 RACE sends a message to members of your own race.  CLAN sends a message to
 those in your clan.
 You can use the CHANNELS command to hear, or not hear, any of these channels.
-
 ~
 0 bad breath~
 Bad breath is an offensive spell, causing slightly more damage than the
-
 'magic missile' spell.
 ~
 0 influx~
@@ -346,23 +331,19 @@ The condition is shown on a scale 5(best) to 1(worst)
   Within the game, the major cities of the realm have a system of enforcing
 rules of player behavior, by having certain players known to the realm as
 being WANTED.  The system is simple, once you understand it's perspective.
-
   The civilized states of the realm enforce peaceful interaction between
 citizens of the various states.  Killing and stealing from other citizens is
 considered unlawful, and anyone that falls under the protection of the Law is
 protected by these actions.
-
   There are three states that a citizen can have: Civilized, Wanted, and
 Lawless.  Citizens that are Civilized are protected within the legal system
 from being attacked by other citizens, and also from having things stolen from
 them. If a Civilized citizen is attacked or stolen from, the Law will label
 the attacker with Wanted, and deal with them accordingly.  In addition, if a
 Civilized citizen breaks the Laws of the Realm, they also will be Wanted.
-
   Wanted citizens are no longer protected under the Law, and Civilized
 citizens are authorized to kill or steal from them.  In addition, non-player
 characters will interact with them violently.
-
   If you wish to become Lawless, this will your protection under the Law.
 However, both actors in an interaction must be Lawless for the Law to ignore
 their actions between each other.  If a Lawless attacks someone Civilized, the
@@ -371,22 +352,18 @@ Lawless, the Law doesn't protect the Lawless, it punishes the Civilized by
 making them Wanted.  To become a Lawless, you may request a PKOK flag from an
 Immortal.  Once you have chosen to be Lawless, the Law will never again place
 you under its protection.
-
   Many hidden and unknown events in the game may take the protection of the
 Law away from you, either permanently, or temporarily.  Some of these are
 obvious, some not so obvious. A few of these events may even make you Persecuted,
 which has several unforseen circumstances.
-
   When you become WANTED, either from breaking a law or other actions, you are
 given a sentence based on your crime.  Sentences may only be reduced by
 sacrificing valuable objects to the Law, by using the command sacrifice
 <object> judge.  The judge will examine your sacrifice, and reduce your
 sentence appropriately.
-
   The Law is omnicient in some ways, and becoming Wanted or Lawless may have
 some unforseen repercussions, so consider your actions well before commiting
 to them!
-
 ~
 0 imm immortal immortals~
 Due to some past events where common sense was overlooked
@@ -427,11 +404,9 @@ Shades of Evil's remort policy is as follows:
         When you have attained 70th level in that new class, and have
         attained 80th level in @@yall@@W five basic classes, you may add
         a @@ysecond@@W remort class.
-
         When you have attained 80th level in all classes, including the
         two remort classes, you will become an @@gAdept@@W.
 When you are ready to remort, type gain <first three letters of new class>.
-
 Remort classes are:
         -@@cKnight@@W
         -@@pSorcerer@@W
@@ -446,7 +421,6 @@ land.  You are given a new body to use, and placed in the lands of
 Moribound.
 The only task you must complete is to get to your corpse is find your way to
 the morgue - a task set as a rather sick joke by the morgue's management.
-
 Any spells which were affecting you are canceled by death.
 Following and groups are not affected by death.
 You lose HALF of the experience points you have.
@@ -460,14 +434,12 @@ multiclass mud...you are, right now, a member of 5 classes.  When it comes
 time to level your character, you can find the guildmasters in the players
 area, west of the temple/recall.  Type help GAIN to find out about 
 leveling your character.
-
 Here are some important helps that you need to read:
 	HELP COLOUR
 	COLOUR HELP
 	HELP DEATH
 	HELP TRAIN
 	WORTH
-
 Here's a couple more things about Shades of Evil that are handy to know:
 	Recalls are free, just type "recall"
 	There is no rent here, just "save" and "quit"
@@ -482,7 +454,6 @@ Here's a couple more things about Shades of Evil that are handy to know:
 Quest Points
 Quest points are used to reward players for completing quests, helping
 mortals or anything else that the Gods can think of :)
-
         QP's     What you can get
         ----     ----------------
          4       Transfer -         in case you get lost in a norecall area.
@@ -543,7 +514,6 @@ yell            pemote          emote           pose
 say             tell            bug             idea
 typo            read            write           clan
 race            music           tongue          pray
-
 For more detailed help, type "HELP <command>".
 ~
 -1 information~
@@ -577,7 +547,6 @@ For more detailed help, type "HELP <command>".
 ~
 -1 group~
 .
-
 			--GROUP--
 The following commands are available:
 follow          group           gtell           split     whogroup
@@ -590,9 +559,7 @@ For more detailed help, type "HELP <command>".
 The following commands are available:
 north           east            south           west
 up              down            exits           recall (or /)
-
 For more detailed help, type "HELP <command>".
-
 ~
 -1 SUMMARY~
 The help pages for ACK! MUD have been updated, rewritten and reformatted.
@@ -602,7 +569,6 @@ These are the main sub-pages available:
 	INFORMATION     COMMUNICATION   COMBAT
 	OTHER
 And also, other help pages of interest:
-
 	DAMAGE          DEATH           EXPERIENCE 
 	NEWS            TICK            WIZLIST 
 	CHANGES         THANKS          BOARDS
@@ -624,7 +590,6 @@ helped out in some way with the mud, be it areas, socials, ideas, whatever.
 **** THESE ARE A BASIC, RUSHED-OFF SET OF RULES FOR IMMORTALS  ****
 **** YOU WILL BE EXPECTED TO UNDERSTAND AND ABIDE BY THEM!!!!  ****
 *******************************************************************
-
 Below follows a simple list of what you should and SHOULDN'T be doing,
 whilst you are playing as an Immortal on SoE. Some muds have suffered
 negative publicity via newsgroups. this is NOT something we wish to see
@@ -660,20 +625,16 @@ b) Be NEUTRAL - i.e. try not to play an evil or ultra-good char.  Players,
    especially newbies, will be more likely to stay if immortals are FAIR.
    For example, roleplaying Satan when an immortal would not be a Good Thing.
 There are probably many, many more things that should be kept in mind. 
-
 Remember that holding Immortal status on SoE is *NOT* your given right.
 This may sound very heavy-handed, but remember these rules are meant more as
 suggestions rather than rules.  If multiple complaints are made against
 an immortal, the rules WILL be used, however.
-
 Ultimately, the purpose of having a set of rules is to ensure ALL players
 here get treated fairly, and equally.  Immortal giving hand-outs to their
 buddies, and acting like idiots does nothing but damage the Mud and lose
 unhappy players.
-
 ALSO:
 -----
-
 Sadly, it seems that extra "rules" are required.  As above, these are 
 really guidelines, but could possibly be used against you more forcefully
 if there is cause for complaint.
@@ -721,7 +682,6 @@ Bye Bye.
 ~
 -1 build_bmotd~
 -=-=-=-=-=-=-=-=-=-=- Builder's Message of the Day -=-=-=-=-=-=-=-=-=-=-
-
 @@yChanges:@@g Setting details for mobs and rooms has changed.  Typing
 'x' will now list not just the flags set, but those that are not.  To toggle
 a flag (or set the room sector) enter it's name.
@@ -729,7 +689,6 @@ Also, to edit a string, (rooms and mobs) type 'edit <string>' eg edit long.
 @@yBuilders' Board:@@g This is situated west from Midgaard Altar.  Please be
 sure to check this regularly.  Now we have a (very simple) help editor, any
 urgent news can be placed here, in the BMOTD.
-
 @@RMouse@@g is now the Immortal in charge of building, area theme and 
 linking. If you have any queries, please consult him if possible before
 coming to another Immortal.  
@@ -738,7 +697,6 @@ coming to another Immortal.
 -1 NEWUN~
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 			Welcome New Player!
-
 		-=-=-=-=-=-=-=-=-=-
 As a new player, you're advised to check out Mudschool, where you will start
 off in the game.  You'll be able to get hold off some basic equipment, as
@@ -764,7 +722,6 @@ LOOK IN THE /PUB/PLAYERS DIR FOR SOME MAPS, AND SOME HELP INFO.
 @@yNOTE:   @@bOver or mis-use of the pray command will get you no_prayed
         This can be pretty nasty when you REALLY need help. Just think of
         the boy who cried wolf.
-
 @@yNOTE:   @@bWe now have a public access FTP site. FTP to SOE.NUC.NET !!!
 @@YNOTE:      @@eNO MORE REIMS!!!@@N Code has been added that now saves
               your corpse. @@eNO reims will be given for dropped items
@@ -781,7 +738,6 @@ LOOK IN THE /PUB/PLAYERS DIR FOR SOME MAPS, AND SOME HELP INFO.
 @@aFirst time: Warning@@N
 @@rSecond Time:  Character is Stripped of all Items..NO REIMB@@N
 @@RThird Time: Automatic Character Deletion...NO REIMB@@N
-
 Cussing WILL NOT BE ALLOWED@@N
  @@rT@@Ghere is a new board located up from dump, for posting of bug
 	 bug problems, character problems, and other situations which call
@@ -790,19 +746,14 @@ Cussing WILL NOT BE ALLOWED@@N
 mana, hitroll, armor class, moves, hitpoints and damroll has been added.
 While you may not like the change at first, in the long run they are 
 good for the mud.
-
 ~
 -1 greeting4~
 Diku Mud was created by Hans Henrik St{rfeldt, Katja Nyboe,
 	  Tom Madsen, Michael Seifert, and Sebastian Hammer.
-
 	     MERC modifications by: Furey, Hatchet, Kahn
-
 	   ACK! Mud2.0: Stephen, Thalen.  Screen: Cyberlich
-
                Ack!Mud 4.0 (beta) : Zenithar, with help from
                Altrag, Ramias, Flar, Spectrum and Universe.
-
     Welcome to 
                    @@d S H A D E S @@e -=@@dof@@e=- @@d E V I L 
 @@l
@@ -833,7 +784,6 @@ Welcome to Shades of Evil.  Enter your name please:@@N ~
 	  But i had splinters in my fingers." @@y- Buffalo Tom
         @@l
           Homepage:  http://www.nuc.net/-shadeweb/ @@g (where - is a tilde)
-
 By what name do you wish to be known? @@N~
 -1 greeting2~
 .      Diku Mud was created by Hans Henrik St{rfeldt, Katja Nyboe,
@@ -843,13 +793,10 @@ By what name do you wish to be known? @@N~
 	   ACK! Mud2.0: Stephen, Thalen.  Screen: Cyberlich
                Ack!Mud 4.0 (beta) : Zenithar, with help from
                  Altrag, Ramias, Flar, Spectrum and Universe.
-
            Welcome to @@e-=@@dSHADES@@e of@@d EVIL@@e=-@@d
-
                   @@l         /
                      O@@a=====@@l|@@d===============@@l>
                   @@l         \@@g
-
      brought to you by:
         @@N Cyberlich, Zenithar, Oderus, Myrtle, Mouse, Freyja and Stimpy
    @@m Homepage:  http://www.nuc.net/-shadeweb/ (where - is a tilde)
@@ -862,7 +809,6 @@ By What Name Do You Wish To Be Known? @@N~
 	   ACK! Mud2.0: Stephen, Thalen.  Screen: Cyberlich
                Ack!Mud 4.0 (beta) : Zenithar, with help from
                  Altrag, Ramias, Flar, Spectrum and Universe.
-
 @@d     Perhaps once, in any given man's lifetime, he encounters
           an experience that shakes the very foundations
    @@e                           of
@@ -872,24 +818,18 @@ By What Name Do You Wish To Be Known? @@N~
                        The question is,
  will he turn from this inexplicable darkness, or will he stare into
            the abyss of his newly found soul, into the
-
        @@e               -=@@dSHADES@@e of@@d EVIL@@e=-@@g
-
  @@m        Homepage:  http://www.nuc.net/-shadeweb/ @@g (where - is a
 tilde)
-
 Who do you think you are?!? @@N~
 -1 GREETING0~
 .
     @@yDiku Mud @@gwas created by @@WHans Henrik St{rfeldt, Katja Nyboe,
     Tom Madsen,  Michael Seifert, and Sebastian Hammer. 
 @@yMERC @@gmodifications by: @@WFury,  Hatchet and Kahn. 
-
 	        ACK! Mud2.0: Stephen, Thalen.  Screen: Cyberlich
-
                Ack!Mud 4.0 (beta) : Zenithar, with help from
                   Altrag, Ramias, Flar, Spectrum and Universe.
-
  @@R@@i                               Welcome To....                               @@g
  @@R@@i @@g@@c@@f     _____ __              __          @@l         ____@@B@@f    ______      _ __  @@R@@i @@g
  @@R@@i @@g@@c@@f    / ___// /_  ____  ____/ /__  _____ @@l  ____  / __/@@B@@f   / ____/   __(_) /  @@R@@i @@g
@@ -897,116 +837,73 @@ Who do you think you are?!? @@N~
  @@R@@i @@g@@c@@f   ___/ / / / / /_/ / /_/ /  __(__  )  @@l/ /_/ / __/  @@B@@f / /___ | |/ / / /    @@R@@i @@g
  @@R@@i @@g@@c@@f  /____/_/ /_/\__,_/\__,_/\___/____/   @@l\____/_/     @@B@@f/_____/ |___/_/_/     @@R@@i @@g 
  @@R@@i @@g                                                                          @@R@@i @@g
-
  @@R@@i             Staff:  Cyberlich, Zenithar, Oderus, Myrtle, Edge, 
 				Mouse and Freyja@@g
-
 @@p
    It is easy to shield the outer body from the poisoned arrows, but it is 
  impossible to shield the mind from the poisoned darts that originate within 
   itself.  Greed, anger, foolishness and the infatuations of egotism - these 
 four poisoned darts originate within the mind and infect it with deadly poison.@@g
-
              Homepage:  http://www.nuc.net/-shadeweb/ (where - is a tilde)
-
 What Is Your Name, Adventurer? @@N~
 -1 WIZLIST~
 @@g________________________________________________________________
-
                       @@WGods of @@RS@@mhades of @@RE@@mvil
 @@g________________________________________________________________
-
  
-
 @@bCreators -     @@yCyberlich, Zenithar, Mouse, Oderus, Freyja, Mrytle
-
 @@bClan Lord -       @@yOderus
  
 @@bHead Builder - @@yMouse            
-
 @@bHead Coder -   @@yZenithar
-
 @@bWebmaster -    @@yHyper
-
 @@bApostles -   @@yBoris, Sammael
-
 @@g________________________________________________________________@@N
-
 ~
 -1 dm~
 ********** DEATHMATCH HAS STARTED ********** 
-
 Rules: 
-
 a) Kill everyone!
-
 b) There are no other rules (:
-
  
-
 Please remember that your player file does NOT save in 
-
 DeathMatches... you won't lose anything...
-
  
-
 Now.... good luck, adventurer... slay some for me!
-
 ~
 0 CWHERE CDONATE HOME~
 @@yCWHERE@@g shows the current locations of all clan members who are 
-
 currently in the game.  Syntax:  cwhere
 
-
 @@yCDONATE@@g donates a piece of equipment to your clan Headquarters.  Then, 
-
 other members of your clan will be able to get the equ that you donate.
-
 Syntax:  cdonate <item>
 
-
 @@yHOME@@g is a recall that takes you directly to your clan Headquarters.  
-
 Some clan Headquarters do not have a regular enterance...so you HAVE to 
-
 'home' there to get there :)  Syntax:  home 
-
 ~
 0 CLAN LEAVE~
 @@yCLAN@@g is a communication channel, allowing you to talk with everyone on
-
 Shades of Evil who is in your clan.  Syntax:  clan <whaterver you want to 
-
 say> 
-
 see also @@mclan_boss clan_diplomat clan_treasurer clan_leader clan_armourers@@N
-
 Note: once in a clan, you can leave the clan by typing leave
-
 ~
 0 ACCEPT BANISH MAKE~
 @@yACCEPT@@g allows the clan leader to accept a new member into his/her clan.
-
 Syntax:  accept <target>
 
-
 @@yBANISH@@g allows the clan leader to banish a member from his/her clan.
-
 Syntax:  banish <target>
 
-
 @@yMAKE@@g allows the clan leader to create one of the pre-made clan equ for
-
 a member of their clan.  Syntax:  make <clan_eq_#> <target>
-
 ~
 0 CLAN~
 @@yCLAN@@g
-
 This is a help file on clans; what they are, what they do, and how they do
 it :)
-
 First, Clans are groups of characters who help each other out on Shades of
 Evil.  Undoubtedly, there will be some clan rivalry, but, hopefully, this
 will not become too extreme :)  For you, the player, to join a clan, you
@@ -1014,109 +911,66 @@ need to get ahold of the clan leader of the clan you want to join...he
 or she can accept you into the clan -- if they decide you belong in the 
 fold.
 
-
 Clan commands:
-
 	@@yCWHERE	CDONATE	HOME	CLAN	LEAVE@@g
-
 Clan Job commands ( Armourer, Diplomat, Leader, Treasurer, and Boss):
-
 	@@yACCEPT	BANISH	MAKE	CTOGGLE	NEGOTIATE@@g	
-
 See the help files on the above commands for more info.	
-
 ~
 0 clan-eq~
 This is a help page for Clan Leaders devloping new equipment for their clan.
 If you are not involved with this process, then there's not much here to
 interest you.
-
 If you are developing Clan Equipment, please note that you _must_ follow
 these guidelines, if you wish your equipment to be considered legal.  You
 will NOT be allowed to load any illegal equipment using the 'MAKE' command.
-
 Each Clan may have 4 Pieces of equipment.  Each must be of different wear
 locations.  You may not make staffs, wands, pills, scrolls, etc.  The only
 equipment you can make are weapons, containers, or armor.
-
 You have 'points' that you may distribute among the objects you make.
 For 2 of the objects, you will have 20 points.  For the other 2, you will 10
-
 Points are used to 'buy' stats on the object as follows:
-
  +--------++------+------+------+------+------+------+------+
-
  | Points || Mana | Move |  HPs |  DAM |  HIT |  -AC | Stat |
-
  +--------++------+------+------+------+------+------+------+
-
  |        ||      |      |      |      |      |      |      |
-
  |    1   ||   2  |    5 |   2  |      |      |      |      |
-
  |    2   ||   4  |   10 |   4  |   1  |      |  -5  |      |
-
  |    3   ||   6  |   15 |   6  |      |   1  |      |      |
-
  |    4   ||   8  |   20 |   8  |      |      |      |      |
-
  |    5   ||  10  |   25 |  10  |   2  |      |  -10 |      |
-
  |    6   ||  12  |   30 |  12  |      |      |      |      |
-
  |    7   ||  14  |   35 |  14  |      |   2  |      |      |
-
  |    8   ||  16  |   40 |  16  |      |      |  -15 |      |
-
  |    9   ||  18  |   45 |  18  |   3  |      |      |      |
-
  |   10   ||  20  |   50 |  20  |      |      |      |      |
-
  |   11   ||  22  |   55 |  22  |      |      |      |      |
-
  |   12   ||  24  |   60 |  24  |      |   3  |  -20 |      |
-
  |   13   ||  26  |   65 |  26  |      |      |      |      |
-
  |   14   ||  28  |   70 |  28  |   4  |      |      |      |
-
  |   15   ||  30  |   75 |  30  |      |      |      |   1  |
-
  |   16   ||  32  |   80 |  32  |      |      |      |      |
-
  |   17   ||  34  |   85 |  34  |      |      |  -25 |      |
-
  |   18   ||  36  |   90 |  36  |      |      |      |      |
-
  |   19   ||  38  |   95 |  38  |      |   4  |      |      |
-
  |   20   ||  40  |  100 |  40  |   5  |      |      |      |
-
  |        ||      |      |      |      |      |      |      |
-
  +--------++------+------+------+------+------+------+------+
-
 So, to 'buy' An -20 AC affect would cost 12 points.  It doesn't mean you
 get ALL the entries for a given price!
-
 Limitation:   You can only have a maximum of 3 different affects on each
               object.
-
 If you think your objects are legal, contact Stephen, who will check them.
 If he agrees they are valid, they will be added to your clan equipment, and
 leaders of your clan will be able to load them for their members.
-
 ~
 0 $~
 #ROOMS
 #8
 Banking Room~
 This small room is home to a large counter stretching across the room, with a
-
  single reinforced glass window set into it.  This is the bank, magically
-
 linked to the other banks within the realms.
-
 ~
 0 0
 D3
@@ -1127,20 +981,15 @@ S
 #5
 The Depths of Hell~
 You are in a sea of red-hot Lava.  Wherever you look, you see yourself
-
 surrounded by the burning rock.  The sky above you is red too, with huge
-
 yellow flames flashing across it.
-
 It looks like you're, well, screwed.
-
 ~
 25918 8
 S
 #14
 Protectorate Clan Donation Room~
 The room os for clan members to donate equipment to other people that might need it.
-
 ~
 8 0
 D3
@@ -1151,11 +1000,8 @@ S
 #12
 End of the Passage~
 You are standing at the end of a short passage.  To the South, you can see the
-
  gleaming brightness of the Grand Hall, while to the west you can see the
-
 Protectorate recovery room.
-
 ~
 8 0
 D2
@@ -1170,11 +1016,8 @@ S
 #11
 A small passage~
 You are in a small passage within the headquarters of Protectorate.To the
-
 south
-
  you can see the Grand Hall, whilst the passage continues to the North.
-
 ~
 8 0
 D0
@@ -1214,28 +1057,19 @@ S
 #1
 @@RS@@mhades of @@RE@@mvil's @@RJ@@mail @@RC@@mell@@N~
 Unfortunately you have been transferred to jail for breaking one of our rules.
-
 We are very laid back here but certain things must be adhered to. As you look
-
 around this cold, damp, bleak looking cell, take some time to reflect on your
-
 crime and, hopefully, with an apology and repentance you'll be able to again
-
 enjoy our wonderful Realm.
-
 ~
 156956 1
 S
 #2
 Limbo~
 You are floating in a formless void, detached from all sensation of physical
-
  matter, surrounded by swirling glowing light, which fades into the relative
-
  darkness around you without any trace of edges or shadow.
-
    There is a "No Tipping" notice pinned to the darkness.
-
 ~
 1052 0
 E
@@ -1245,22 +1079,15 @@ S
 #3
 The Church of Love~
 You are standing outside what looks to be a strange church.  Strange
-
  because it is floating happily in limbo, out of harm's way.  The building
-
  itself is constructed out of purest marble.  Huge gold pillars support
-
  the grand entranceway, which leads inside, to the East.  Under your feet,
-
  you notice a thick, red carpet leading from inside the church, past you to
-
  the West.  
-
 ~
 1032 1
 D1
 The Church.
-
 ~
 ~
 0 -1 4
@@ -1268,18 +1095,13 @@ S
 #4
 Inside the Church of Love~
 You are standing inside a truely grand building.  The walls are built out
-
 of finest marble, with huge, solid gold columns reach up towards the
-
 massive, domed roof.  Small white doves line the coving round the roof, and
-
 gently seranade you with their song.
-
 ~
 8 1
 D3
 Outside.
-
 ~
 ~
 0 -1 3
@@ -1287,13 +1109,9 @@ S
 #6
 Protectorate Board Room~
 This is a small, oblong room, with a low curving ceiling.  Along one of the
-
  longer walls is the Protectorate Bulletin Board, listing clan information,
-
 hit lists and general chit-chat.  In the wall behind you is a door leading
-
 back out into the Grand Hall.
-
 ~
 4 0
 D1
@@ -1304,21 +1122,13 @@ S
 #7
 Stephen's Office~
 This enormous rooms acts as Stephen's Office.  As Immortal Sponsor of the
-
 PulpDog Clan, he has final overall say in the policies and decisions made by
-
 the clan.  He is also very powerful, and able to silence those who might dare
-
 to rise against him.
-
  
-
 Before you, a gleaming marble desk is home to piles of paper, as well as a
-
 small framed photograph.  Hanging from the walls are framed portraits of
-
 various Immortals - Kahn, Hatchet included.
-
 ~
 24596 0
 E
@@ -1331,11 +1141,8 @@ S
 #9
 The Entrance to the Protectorate Clan~
 You are in a circular-shaped room, with a stained-glass window high above you.
-
  To the east is the rooms and passages that constitute the Protectorate clan
-
 HQ.
-
 ~
 8 0
 D1
@@ -1359,7 +1166,6 @@ banker~
 The old Banker~
 The old Banker ~
 He looks big, mean, and scared of PulpDog members holding him up.
-
 ~
 32779 128 900 S
 77 1
@@ -1369,7 +1175,6 @@ He looks big, mean, and scared of PulpDog members holding him up.
 Puff~
 Puff~
 Puff the Fractal Dragon is here, contemplating a higher reality.
-
 ~
 ~
 1 0 1000 S
@@ -1380,10 +1185,8 @@ Puff the Fractal Dragon is here, contemplating a higher reality.
 elvis~
 Elvis~
 Elvis, King of rock and roll stands here, looking damn funky!
-
 ~
 Such people as you do not look at kings.
-
 ~
 3145731 0 1000 S
 78 1
@@ -1393,10 +1196,8 @@ Such people as you do not look at kings.
 doggy~
 a whinging doggy~
 A whinging doggy is here, yapping and snapping at your heels.
-
 ~
 Looks kinda like a person.  Better put it out of it's misery!!
-
 ~
 3 0 1000 S
 11 0
@@ -1424,7 +1225,6 @@ The old healer~
 jailrat~
 @@bA rat@@N~
 @@bA rat with wicked looking @@yteeth@@b scurries around@@N
-
 ~
 ~
 262149 32808 0 S
@@ -1435,7 +1235,6 @@ jailrat~
 @@gBones@@N~
 @@gBones@@N~
 @@gA pile of bones rattles in the corner@@N
-
 ~
 ~
 278609 131072 0 S
@@ -1569,7 +1368,6 @@ L
 sloppy brain~
 sloppy brain~
 The sloppy brain of %s has plopped out here.
-
 ~
 13 0 0 1
 5 0 0 1
@@ -1640,7 +1438,6 @@ L
 board~
 the PulpDog Board~
 The PulpDog Notice Board is here for visitors to use...
-
 ~
 27 0 0 1
 28 0 0 5
