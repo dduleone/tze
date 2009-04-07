@@ -290,6 +290,38 @@ understand what you say.  Anyone else will see gibberish!  Note that the
 RACE command will tell to ALL members of your race (who are on the channel)
 even if they aren't in the same room as you.
 ~
+-1 PROMPT~
+Syntax: prompt
+Syntax: prompt all
+Syntax: prompt <%*>
+ 
+PROMPT with out an argument will turn your prompt on or off.
+ 
+PROMPT ALL will give you the standard "<hits mana moves>" prompt.
+ 
+PROMPT <%*> where the %* are the various variables you may set yourself.
+ 
+        %h :  Display your current hits
+        %H :  Display your maximum hits
+        %m :  Display your current mana
+        %M :  Display your maximum mana
+        %v :  Display your current moves
+        %V :  Display your maximum moves
+        %x :  Display your current experience
+	%X :  Display experience to level
+        %g :  Display your gold held
+	%s :  Display silver carried
+        %a :  Display your alignment
+        %r :  Display the room name you are in
+	%e :  Display the exits from the room in NESWDU style
+	%c :  Display a carriage return (useful for multi-line prompts)
+        %R :  Display the vnum you are in (IMMORTAL ONLY)
+        %z :  Display the area name you are in (IMMORTAL ONLY)
+ 
+Example:  PROMPT <%hhp %mm %vmv>
+        Will set your prompt to "<10hp 100m 100mv>"
+ 
+~
 82 halls~
 HALLS is a command which will transfer you, the immortal to the Entry Point,
 situated within the Halls of the Immortals.  It is similar to recall, except
