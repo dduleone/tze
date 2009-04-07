@@ -293,15 +293,11 @@ PROMPT <%*> where the %* are the various variables you may set yourself.
         %v :  Display your current moves
         %V :  Display your maximum moves
         %x :  Display your current experience
-	%X :  Display experience to level
         %g :  Display your gold held
-	%s :  Display silver carried
         %a :  Display your alignment
         %r :  Display the room name you are in
-	%e :  Display the exits from the room in NESWDU style
-	%c :  Display a carriage return (useful for multi-line prompts)
-        %R :  Display the vnum you are in (IMMORTAL ONLY)
-        %z :  Display the area name you are in (IMMORTAL ONLY)
+        %s :  Display what stance you are in.
+        %c :  Display a carriage return (useful for multi-line prompts)
  
 Example:  PROMPT <%hhp %mm %vmv>
         Will set your prompt to "<10hp 100m 100mv>"
