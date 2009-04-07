@@ -16,9 +16,9 @@ T You can teleport into here
 #4449
 Entrance to Hotel~
 You are standing in a covered entrance to an old, but grand-looking Hotel.
-Whisps of cobwebs blow in the breeze, and laughter and screams echo out of
-the building to your ears.
-~
+Whisps of cobwebs blow in the breeze, and laughter and screams echo out of
+the building to your ears.
+~
 4 0
 D0
 ~
@@ -32,8 +32,8 @@ S
 #4448
 Foyer~
 You are now in the foyer of this old-looking hotel.  The floor is white stone,
-and displays an interesting patterned-tile type thingy in its centre.
-~
+and displays an interesting patterned-tile type thingy in its centre.
+~
 9 0
 D0
 ~
@@ -55,9 +55,9 @@ S
 #4447
 The Information Desk~
 You are standing before a low desk, where guests come to find out things, such
-as "why is my bill so high?", "why has my husband turned green?" and other
-such trivia.
-~
+as "why is my bill so high?", "why has my husband turned green?" and other
+such trivia.
+~
 9 0
 D3
 ~
@@ -67,8 +67,8 @@ S
 #4446
 Some Stairs~
 You are on a dusty set of stairs, that look unused.  The few footsteps you
-can see lead up, but not down...
-~
+can see lead up, but not down...
+~
 9 0
 D1
 ~
@@ -82,7 +82,7 @@ S
 #4445
 Passage~
 You are in a long passage within the hotel.
-~
+~
 1 0
 D0
 ~
@@ -104,8 +104,8 @@ S
 #4444
 The Bar~
 You are in the hotel's bar, which seems pretty empty, due to the fact that the
-barmaid who usually works here is no where to be seen.
-~
+barmaid who usually works here is no where to be seen.
+~
 9 0
 D3
 ~
@@ -115,13 +115,13 @@ S
 #4443
 The Dining Room~
 You are a large room, which is where the guests come to be poisoned, or even
-sometimes fed.  A long table stands proudly in the middle of the room, but
-look uncleaned, as the vomit and piles of food suggest.
-~
+sometimes fed.  A long table stands proudly in the middle of the room, but
+look uncleaned, as the vomit and piles of food suggest.
+~
 9 0
 D0
 A small door.
-~
+~
 ~
 1 -1 4442
 D1
@@ -132,18 +132,18 @@ S
 #4442
 The Kitchen~
 You are in the hotel's kitchen - a small but workman-like affair.
-~
+~
 9 0
 D2
 A small door.
-~
+~
 ~
 1 -1 4443
 S
 #4441
 Passage~
 You are in the middle of a long passage within the hotel.
-~
+~
 9 0
 D0
 ~
@@ -151,7 +151,7 @@ D0
 0 -1 4439
 D1
 A small door
-~
+~
 ~
 1 -1 4440
 D2
@@ -162,28 +162,28 @@ S
 #4440
 A Guest's Room~
 You are in what serves as a room in this hotel: dirty carpet, saggy bed and
-a cracked sink.  Bet the rent is high too.
-~
+a cracked sink.  Bet the rent is high too.
+~
 9 0
 D3
 A small door.
-~
+~
 ~
 1 -1 4441
 S
 #4439
 Passage~
 You are at the northen end of a passage within the hotel.
-~
+~
 9 0
 D0
 A small door.
-~
+~
 ~
 1 -1 4437
 D1
 A small door.
-~
+~
 ~
 1 -1 4438
 D2
@@ -192,43 +192,43 @@ D2
 0 -1 4441
 D3
 A small door.
-~
+~
 ~
 1 -1 4436
 S
 #4438
 The Hotel Manager's Room~
 You are in the Manager's room, which (surprise!) is of much higher quality than
-the other guest's.
-~
+the other guest's.
+~
 9 0
 D3
 A small door.
-~
+~
 ~
 1 -1 4439
 S
 #4437
 A Guest's Room~
 You are in what serves as a room in this hotel: dirty carpet, saggy bed and
-a cracked sink.  Bet the rent is high too.
-~
+a cracked sink.  Bet the rent is high too.
+~
 9 0
 D2
 A small door.
-~
+~
 ~
 1 -1 4439
 S
 #4436
 Outside the Hotel~
 You are standing just outside the hotel.  Breathing this clean air, you realise
-how musty it is back in there.
-~
+how musty it is back in there.
+~
 0 2
 D1
 A small door.
-~
+~
 ~
 1 -1 4439
 D3
@@ -239,9 +239,9 @@ S
 #4435
 Hotel Patio~
 You are on the Hotel's meagre patio, used to hold social gatherings, which
-now looks strangely unused.  A strange-looking swimming pool is to the south,
-and appears to be very dark for *just* water.....
-~
+now looks strangely unused.  A strange-looking swimming pool is to the south,
+and appears to be very dark for *just* water.....
+~
 0 2
 D1
 ~
@@ -255,8 +255,8 @@ S
 #4434
 Shallow End of Pool~
 You are in the shallow end of the hotel's (unused) swimming pool.  You start
-to realize why...
-~
+to realize why...
+~
 0 6
 D0
 ~
@@ -270,8 +270,8 @@ S
 #4433
 Deep End of Pool~
 You are in the deep end of the hotel's swimming pool.
-At the very bottom of the pool is a small cover.
-~
+At the very bottom of the pool is a small cover.
+~
 0 6
 D0
 ~
@@ -279,15 +279,15 @@ D0
 0 -1 4434
 D5
 A small drain cover.
-~
+~
 cover~
 1 -1 4432
 S
 #4432
 A Narrow Pipe~
 You are in a tight pipe.
-You see a small cover above your head.
-~
+You see a small cover above your head.
+~
 9 0
 D1
 ~
@@ -295,14 +295,14 @@ D1
 0 -1 4431
 D4
 A small drain cover.
-~
+~
 cover~
 1 -1 4433
 S
 #4431
 A Narrow Pipe~
 You are in a tight pipe.
-~
+~
 9 0
 D1
 ~
@@ -316,7 +316,7 @@ S
 #4430
 A Narrow Pipe~
 You are in a tight pipe.
-~
+~
 9 0
 D1
 ~
@@ -330,7 +330,7 @@ S
 #4429
 A Narrow Pipe~
 You are in a tight pipe.
-~
+~
 9 0
 D0
 ~
@@ -344,7 +344,7 @@ S
 #4428
 A Narrow Pipe~
 You are in a tight pipe.
-~
+~
 13 0
 D1
 ~
@@ -358,7 +358,7 @@ S
 #4427
 Cellar~
 You are in a dark, cold cellar underneath the old hotel.
-~
+~
 9 0
 D1
 ~
@@ -376,7 +376,7 @@ S
 #4426
 Cellar~
 You are in a dark, cold cellar underneath the old hotel.
-~
+~
 9 0
 D2
 ~
@@ -390,7 +390,7 @@ S
 #4425
 Cellar~
 You are in a dark, cold cellar underneath the old hotel.
-~
+~
 9 0
 D0
 ~
@@ -404,7 +404,7 @@ S
 #4424
 Cellar~
 You are in a dark, cold cellar underneath the old hotel.
-~
+~
 9 0
 D0
 ~
@@ -412,7 +412,7 @@ D0
 0 -1 4426
 D2
 A large door.
-~
+~
 ~
 1 -1 4423
 D3
@@ -423,12 +423,12 @@ S
 #4423
 A Doll's Room~
 You are in what looks to be part of an old fashioned doll's house.  Old, worn
-out dolls litter the room, some of which look to be missing bits.
-~
+out dolls litter the room, some of which look to be missing bits.
+~
 9 0
 D0
 A large door.
-~
+~
 ~
 1 -1 4424
 D3
@@ -439,9 +439,9 @@ S
 #4422
 The PuppetMaster's Lab~
 You are in a strange lab.  The only furniture is a large desk, covered in parts
-of puppets, dolls, etc.  A large assortment of springs and other mechanical
-looking pieces lie around on the desktop.
-~
+of puppets, dolls, etc.  A large assortment of springs and other mechanical
+looking pieces lie around on the desktop.
+~
 9 0
 D1
 ~
@@ -464,11 +464,11 @@ S
 #4420
 The Landing~
 You are on a landing, upstairs in the Hotel.
-~
+~
 9 0
 D0
 A small door.
-~
+~
 ~
 1 -1 4419
 D1
@@ -477,7 +477,7 @@ D1
 0 -1 4417
 D2
 A small door.
-~
+~
 ~
 1 -1 4418
 D3
@@ -488,31 +488,31 @@ S
 #4419
 A Guest's Room~
 You are in what serves as a room in this hotel: dirty carpet, saggy bed and
-a cracked sink.  Bet the rent is high too.
-~
+a cracked sink.  Bet the rent is high too.
+~
 9 0
 D2
 A small door.
-~
+~
 ~
 1 -1 4420
 S
 #4418
 A Guest's Room~
 You are in what serves as a room in this hotel: dirty carpet, saggy bed and
-a cracked sink.  Bet the rent is high too.
-~
+a cracked sink.  Bet the rent is high too.
+~
 9 0
 D0
 A small door.
-~
+~
 ~
 1 -1 4420
 S
 #4417
 The Landing~
 You are on a landing, upstairs in the Hotel.
-~
+~
 9 0
 D0
 ~
@@ -520,7 +520,7 @@ D0
 0 -1 4416
 D1
 A small door.
-~
+~
 ~
 1 -1 4414
 D3
@@ -531,7 +531,7 @@ S
 #4416
 A Balcony~
 You are on a small balcony, attached to the old hotel.
-~
+~
 0 2
 D1
 ~
@@ -545,7 +545,7 @@ S
 #4415
 A Balcony~
 You are on a small balcony, attached to the old hotel.
-~
+~
 0 2
 D3
 ~
@@ -553,26 +553,26 @@ D3
 0 -1 4416
 D4
 A small trapdoor.
-~
+~
 ~
 1 -1 4413
 S
 #4414
 A Guest's Room~
 You are in what serves as a room in this hotel: dirty carpet, saggy bed and
-a cracked sink.  Bet the rent is high too.
-~
+a cracked sink.  Bet the rent is high too.
+~
 9 0
 D3
 A small door.
-~
+~
 ~
 1 -1 4417
 S
 #4413
 A Balcony~
 You are on a small balcony, attached to the old hotel.
-~
+~
 0 2
 D3
 ~
@@ -580,14 +580,14 @@ D3
 0 -1 4412
 D5
 A small trapdoor.
-~
+~
 ~
 1 -1 4415
 S
 #4412
 A Balcony~
 You are on a small balcony, attached to the old hotel.
-~
+~
 4 2
 D1
 ~
@@ -601,7 +601,7 @@ S
 #4411
 The Hotel's Attic~
 You are in the deserted, unused (and dusty!) Attic of the Hotel.
-~
+~
 9 0
 D0
 ~
@@ -623,7 +623,7 @@ S
 #4410
 The Hotel's Attic~
 You are in the deserted, unused (and dusty!) Attic of the Hotel.
-~
+~
 9 0
 D2
 ~
@@ -637,7 +637,7 @@ S
 #4409
 The Hotel's Attic~
 You are in the deserted, unused (and dusty!) Attic of the Hotel.
-~
+~
 9 0
 D1
 ~
@@ -651,7 +651,7 @@ S
 #4408
 The Hotel's Attic~
 You are in the deserted, unused (and dusty!) Attic of the Hotel.
-~
+~
 9 0
 D0
 ~
@@ -669,7 +669,7 @@ S
 #4407
 The Hotel's Attic~
 You are in the deserted, unused (and dusty!) Attic of the Hotel.
-~
+~
 9 0
 D0
 ~
@@ -691,7 +691,7 @@ S
 #4406
 The Hotel's Attic~
 You are in the deserted, unused (and dusty!) Attic of the Hotel.
-~
+~
 9 0
 D0
 ~
@@ -709,7 +709,7 @@ S
 #4405
 The Hotel's Attic~
 You are in the deserted, unused (and dusty!) Attic of the Hotel.
-~
+~
 9 0
 D0
 ~
@@ -727,7 +727,7 @@ S
 #4404
 The Hotel's Attic~
 You are in the deserted, unused (and dusty!) Attic of the Hotel.
-~
+~
 9 0
 D0
 ~
@@ -749,7 +749,7 @@ S
 #4403
 The Hotel's Attic~
 You are in the deserted, unused (and dusty!) Attic of the Hotel.
-~
+~
 9 0
 D0
 ~
@@ -767,7 +767,7 @@ S
 #4402
 The Hotel's Attic~
 You are in the deserted, unused (and dusty!) Attic of the Hotel.
-~
+~
 9 0
 D0
 ~
@@ -781,7 +781,7 @@ S
 #4401
 The Hotel's Attic~
 You are in the deserted, unused (and dusty!) Attic of the Hotel.
-~
+~
 9 0
 D0
 ~
@@ -799,7 +799,7 @@ S
 #4400
 The Hotel's Attic~
 You are in the deserted, unused (and dusty!) Attic of the Hotel.
-~
+~
 9 0
 D0
 ~
@@ -816,9 +816,9 @@ S
 doorman~
 The doorman~
 A Doorman stands here, watching the entrance.
-~
+~
 He looks old, and bored.  Be nice and leave him alone.
-~
+~
 31 8 200 S
 22 1
 0 0 0
@@ -827,9 +827,9 @@ He looks old, and bored.  Be nice and leave him alone.
 bell boy bellboy~
 the bellboy~
 The bellboy stands here, looking to make a quick tip.
-~
+~
 He is young, and ugly.  What else do you need to know?
-~
+~
 7 0 400 S
 27 1
 0 0 0
@@ -838,9 +838,9 @@ He is young, and ugly.  What else do you need to know?
 member staff~
 A member of Staff~
 A member of staff stands here, trying to ignore you.
-~
+~
 She is old, and looks unhelpful, to say the least.
-~
+~
 15 60 -200 S
 23 2
 0 0 0
@@ -849,9 +849,9 @@ She is old, and looks unhelpful, to say the least.
 newlywed~
 A Newlywed Groom~
 A newlywed groom stands here, waiting for night time.
-~
+~
 He has just got married, and is spending his honeymoon here.  Fool.
-~
+~
 7 8 0 S
 30 1
 0 0 0
@@ -860,9 +860,9 @@ He has just got married, and is spending his honeymoon here.  Fool.
 newlywed~
 A Newlywed Bride~
 A newlywed bride stands here, trying to fake a headache.
-~
+~
 She is very pretty, and looks annoyed at having to honeymoon here.
-~
+~
 7 0 500 S
 23 2
 0 0 0
@@ -871,9 +871,9 @@ She is very pretty, and looks annoyed at having to honeymoon here.
 guest~
 A guest~
 A guest is here, thinking of more things to complain about.
-~
+~
 He is big, horrible and ugly.  The perfect guest for this hotel!
-~
+~
 39 0 -200 S
 22 1
 0 0 0
@@ -882,10 +882,10 @@ He is big, horrible and ugly.  The perfect guest for this hotel!
 manager~
 The manager~
 The manager is here, suddenly looking VERY innocent.
-~
+~
 The manager is a short fellow, the kind of person you take an instant dislike
-to.  You notice his trousers are undone.
-~
+to.  You notice his trousers are undone.
+~
 7 0 -250 S
 39 1
 0 0 0
@@ -894,9 +894,9 @@ The manager is a short fellow, the kind of person you take an instant dislike
 barmaid~
 The barmaid~
 The Barmaid is here, looking slightly naked.
-~
+~
 She is indeed naked.  Where could her clothes have gone?? 
-~
+~
 35 0 -400 S
 30 2
 0 0 0
@@ -905,9 +905,9 @@ She is indeed naked.  Where could her clothes have gone??
 clockwork fish~
 A clockwork fish~
 A clockwork fish swims about here.
-~
+~
 It is made from various pieces of dolls and puppets.  Uh-oh...
-~
+~
 5 4 -600 S
 34 0
 0 2 2
@@ -916,9 +916,9 @@ It is made from various pieces of dolls and puppets.  Uh-oh...
 cook~
 The cook~
 The cook stands here, pretending to be in a coma, through all the excitement.
-~
+~
 He looks bored, to say the least.
-~
+~
 3 0 -100 S
 39 1
 0 0 0
@@ -927,9 +927,9 @@ He looks bored, to say the least.
 driller killer~
 driller killer~
 Driller Killer, the mean puppet stands here, waiting to kill you.  Run!?!?
-~
+~
 Driller Killer is a small doll, but has a large, sharp head.
-~
+~
 3145783 32778 -900 S
 50 0
 -20 8 8
@@ -938,9 +938,9 @@ Driller Killer is a small doll, but has a large, sharp head.
 puppet master puppetmaster~
 The Puppetmaster~
 The Puppetmaster stands here, looking damn evil.
-~
+~
 He is scared, and old.  However, he's still bigger than you!
-~
+~
 3145767 136 -900 S
 55 0
 -150 0 100
@@ -949,9 +949,9 @@ He is scared, and old.  However, he's still bigger than you!
 giant puppet~
 A giant puppet~
 A giant puppet is waiting here......  for you maybe??
-~
+~
 The puppet is giant by puppet dimensions, but still smaller than you.
-~
+~
 3145761 0 -400 S
 45 0
 0 0 0
@@ -960,9 +960,9 @@ The puppet is giant by puppet dimensions, but still smaller than you.
 puppet~
 A puppet~
 A puppet is here, wandering around.
-~
+~
 The puppet looks like a normal puppet, except it is walking around!!!!!!
-~
+~
 3145761 0 -200 S
 44 0
 0 75 10
@@ -971,9 +971,9 @@ The puppet looks like a normal puppet, except it is walking around!!!!!!
 guard puppet~
 A guard puppet~
 A puppet is here, as if on guard.
-~
+~
 It is a plain looking puppet, except is looks very evil.
-~
+~
 3145763 0 -700 S
 49 0
 -100 100 0
@@ -1101,131 +1101,68 @@ L
 #0
 #RESETS
 M 0 4414 1 4449 doorman
-
 M 0 4413 1 4448 bellboy
-
 M 0 4412 1 4447 staff
-
 M 0 4411 1 4414 newly
-
 E 0 4400 0 1    ring
-
 M 0 4410 1 4414 ""
-
 E 0 4400 0 1    ring
-
 M 0 4409 4 4418 guest
-
 M 0 4409 3 4419 guest
-
 M 0 4409 2 4440 guest
-
 M 0 4409 1 4437 guest
-
 M 0 4408 1 4438 man
-
 G 0 4402 0      belt
-
 M 0 4407 1 4441 maid
-
 M 0 4406 8 4433 fish
-
 M 0 4406 7 4433 fish
-
 M 0 4406 6 4434 fish
-
 M 0 4406 5 4433 fish
-
 M 0 4406 4 4434 fish
-
 M 0 4406 3 4432 fish
-
 M 0 4406 2 4430 fish
-
 M 0 4406 1 4429 fish
-
 M 0 4405 1 4442 cook
-
 E 0 4404 0 16   knife
-
 M 0 4404 1 4423 driller
-
 G 0 4401 0      fluid
-
 M 0 4403 1 4422 master
-
 E 0 4409 0 17   staff
-
 E 0 4408 0 16   staff
-
 M 0 4402 3 4409 giant
-
 M 0 4402 2 4407 giant
-
 M 0 4402 1 4400 giant
-
 M 0 4401 3 4405 puppet
-
 E 0 4403 0 16   pin
-
 M 0 4401 2 4401 puppet
-
 E 0 4403 0 16   pin
-
 M 0 4401 1 4411 puppet
-
 E 0 4403 0 16   pin
-
 M 0 4400 1 4402 guard
-
 G 0 4407 0      cloak
-
 G 0 4406 0      leggs
-
 D 0 4443 0 1 
-
 D 0 4442 2 1 
-
 D 0 4441 1 1 
-
 D 0 4440 3 1 
-
 D 0 4439 0 1 
-
 D 0 4437 2 1 
-
 D 0 4439 1 1 
-
 D 0 4438 3 1 
-
 D 0 4439 3 1 
-
 D 0 4436 1 1 
-
 D 0 4433 5 1 
-
 D 0 4432 4 1 
-
 D 0 4424 2 1 
-
 D 0 4423 0 1 
-
 D 0 4420 0 1 
-
 D 0 4419 2 1 
-
 D 0 4420 2 1 
-
 D 0 4418 0 1 
-
 D 0 4417 1 1 
-
 D 0 4414 3 1 
-
 D 0 4415 4 1 
-
 D 0 4413 5 1 
-
 S
 #SPECIALS
 M 4413 spec_thief
