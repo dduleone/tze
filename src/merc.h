@@ -55,8 +55,8 @@ typedef unsigned char                   bool;
  *  Your mud info here :) Zen
  */
 
-#define mudnamecolor  "@@lYour Mud Name@@N"
-#define mudnamenocolor  "Your Mud name"
+#define mudnamecolor  "@@lTze`Vaer@@N"
+#define mudnamenocolor  "Tze`Vaer"
 #define sacgodname  "Cyberlich"
 #define goodgodname  "Freyja"
 #define neutralgodname  "Zenithar"
