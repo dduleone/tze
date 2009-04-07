@@ -17,10 +17,10 @@ S Title not shown on area list.
 #52
 The Courtyard~
 You are in a large courtyard, built beneath the land.  Small torches flicker
-around the room, casting their bright light into every nook and cranny.
-The Floor is paved here, whilst there are a few sturdy-looking wooden
-supports holding the ceiling in place.
-~
+around the room, casting their bright light into every nook and cranny.
+The Floor is paved here, whilst there are a few sturdy-looking wooden
+supports holding the ceiling in place.
+~
 1036 0
 S
 #0
@@ -29,9 +29,9 @@ S
 cogline~
 Cogline~
 An elderly-looking Cleric stands here, ready to serve.
-~
+~
 He is here to serve you.
-~
+~
 3 0 1000 S
 71 1
 0 0 0
@@ -40,7 +40,7 @@ He is here to serve you.
 beaver~
 A small cute and fuzzy beaver~
 A beaver with red hair languishes in the sun here.
-~
+~
 ~
 3 40 -1 S
 81 1

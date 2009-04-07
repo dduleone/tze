@@ -17,11 +17,11 @@ S Title not shown on area list.
 #21
 (trialroom1) Front Hall~
 You are stanfnding in the front hall of a regular-looking two-story house. The
-are stairs here, a hallway to the north leading to the kitchen, and the
-living-room is to the west.
- 
+are stairs here, a hallway to the north leading to the kitchen, and the
+living-room is to the west.
+ 
 
-~
+~
 8200 0
 D0
 ~
@@ -54,8 +54,8 @@ S
 #22
 The Kitchen (Trialroom2)~
 You are standing in a small, hot kitchen.  Preparations for dinner are being
-made.  Opoops, the potatoes bioled over...
-~
+made.  Opoops, the potatoes bioled over...
+~
 8 0
 D2
 ~
@@ -74,10 +74,10 @@ S
 #23
 Living-Room (Trialroom3)~
 No descriptionYou stand at the entrance to the living-room, afraid to venture
-out into the cesspool that was once a place of recreation.  Through the rubble
-you see a couch and TV floating almost blessedly above the muck.
+out into the cesspool that was once a place of recreation.  Through the rubble
+you see a couch and TV floating almost blessedly above the muck.
 
-~
+~
 8 0
 D1
 ~
@@ -93,8 +93,8 @@ S
 #24
 The top floor. (trialroom4)~
 You stand at the top of the stairs, puzzled as to where that stench is coming
-from. there are bedrooms to the east and west, and a bathroom to the north.
-~
+from. there are bedrooms to the east and west, and a bathroom to the north.
+~
 8 0
 D0
 ~
@@ -128,11 +128,11 @@ S
 #25
 Stinky Smelly Bathroom.~
 No descriptionHmmm... smells okay in here.. for a bathroom.  Except.. WHOA!
-That toilet is sis totally  conered with ... STUFF! *vomit*  The is a bathtub
-here too... im not sure you wanna pull back the curtain.
- 
+That toilet is sis totally  conered with ... STUFF! *vomit*  The is a bathtub
+here too... im not sure you wanna pull back the curtain.
+ 
 
-~
+~
 8 0
 D2
 ~
@@ -148,9 +148,9 @@ S
 #26
 Master Bedroom (trialroom6)~
 This is the master Bedroom. Your average assortment of bedroom furniture and
-accessories lies stroon about the room.
+accessories lies stroon about the room.
 
-~
+~
 8 0
 D1
 ~
@@ -164,9 +164,9 @@ S
 #27
 Child's Bedroom~
 This must be where that little brat sleeps.  There are broken toys tossed
-about the room here and there.  There is a closet to the north
+about the room here and there.  There is a closet to the north
 
-~
+~
 8 0
 D0
 ~
@@ -186,9 +186,9 @@ S
 #28
 Inside the closet!~
 Now, if you'd ever call a closet scary.. it'd be this one. These clothes are
-sooo dirty, they could prolly be classified as a sentient being.
+sooo dirty, they could prolly be classified as a sentient being.
 
-~
+~
 8 0
 D2
 ~
@@ -201,7 +201,7 @@ S
 #29
 The Balcony~
 You are This is the balcony, from here you can see the whole front yard.
-~
+~
 0 0
 D0
 ~
@@ -219,7 +219,7 @@ squishy~
 Squishingont stands here, looking lumpy.~
 Bkla;dkhglkhjg
 
-~
+~
 3 0 0 S
 59 1
 -356 39 47
@@ -230,7 +230,7 @@ Mr. Bumpy~
 Mr. Bumpy is here looking for left socks to eat.~
 Blah blah blah blah *burp* blah blah blah
 
-~
+~
 131081 0 0 S
 67 1
 0 45 43
@@ -241,7 +241,7 @@ Closet Monster~
 The ugly closet monster is here! and hes gonna eat you!~
 Blah blah blah
 
-~
+~
 33 0 0 S
 69 1
 -450 12 69
@@ -251,9 +251,9 @@ kitty cat~
 cute little kitty cat~
 A cute little kitty cat sits here licking itself.~
 Descriptive-type stuff...
- 
+ 
 
-~
+~
 1 0 0 S
 21 1
 -267 120 23
@@ -264,7 +264,7 @@ a little bird~
 A little bird sits here on the railing.. how cute.~
 This cute littlwe bird couldnt hurt a flea...
 
-~
+~
 3 524416 0 S
 96 1
 -247 120 150
@@ -274,8 +274,8 @@ Fat guy~
 the fat guy~
 A big slimy fat man is here.~
 Man.. does this guy reek. he looks even worse than he smells. You really didnt
-think ear-wax was supposed to run.
-~
+think ear-wax was supposed to run.
+~
 2051 0 0 S
 75 1
 -350 45 38
@@ -284,11 +284,11 @@ Man.. does this guy reek. he looks even worse than he smells. You really didnt
 REally Annoying kid ~
 the little brat~
 An annoying little kid
-~
+~
 This little brat must belon gto the ppl who own this house.. this kid makes
-you glad you never had any of your own.
+you glad you never had any of your own.
 
-~
+~
 1 0 -700 S
 52 1
 -210 22 23
@@ -298,7 +298,7 @@ the fast housewife~
 blah~
 Cuper blah 
 
-~
+~
 Oh blah~
 1 0 0 S
 5 1
@@ -381,9 +381,7 @@ L
 #0
 #RESETS
 M 0 21 1 21 (null)
-
 M 0 21 1 24 (null)
-
 S
 #SPECIALS
 M 28 spec_cast_mage
