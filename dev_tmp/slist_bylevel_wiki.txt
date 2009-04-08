@@ -1,0 +1,116 @@
+^ level ^ thi ^ cle ^ mag ^ war ^ psi ^
+^ 01 | steal  | | | | |
+^ 02 | | | | | |
+^ 03 | | | armor  | | |
+^ | | | faerie fire  | | |
+^ | | | magic missile  | | |
+^ | | | ventriloquate  | | |
+^ 04 | | cause light  | bad breath | | mind flail |
+^ 05 | sneak | cure light  | shocking grasp | punch | planergy |
+^ | | | | warcry  | |
+^ 06 | | | burning hands  | headbutt | |
+^ 07 | dodge | detect magic  | colour spray | | physic thrust |
+^ | | | detect magic  | | see magic |
+^ 08 | | bless  | chill touch | knee | barrier |
+^    | | detect evil  | detect undead | | |
+^ 09 | | create water  | identify | | know item |
+^    | | | protection  | | shadowform |
+^    | | | shield  | | |
+^    | | | sleep  | | |
+^ 10 |  backstab | detect poison  | mystic armour | parry | phobia |
+^    | | | | second attack | sense evil  |
+^ 11 | | refresh  | continual light | | |
+^ 12 | appraise | protection  | detect evil | | mind bolt |
+^    | hide | sanctuary  | | disarm | |
+^ 13 | | | know alignment  | | |
+^ 14 | | faerie fog  | | kick | hypnosis |
+^ 15 | second attack  | | | rescue | |
+^ 16 | find doors | detect hidden  | blindness | dodge | |
+^    | | | locate object  | | |
+^ 17 | | | detect hidden  | | |
+^    | | | invis  | | |
+^ 18 | trip | | giant strength  | | know weakness |
+^ 19 | circle | | detect invis | | night vision  |
+^    | | | | | physic crush  |
+^ 20 | peek | bark skin | infravision | martial arts | static |
+^    | | flare  | | mount | |
+^    | | weaken  | | | |
+^ 21 | | | | | |
+^ 22 | | know alignment  | | | detection |
+^ 23 | | | | | |
+^ 24 | | | fly  | | produce food |
+^    | | | lightning bolt  | | |
+^ 25 | | | | | ego whip  |
+^ 25 | climb  | | | third attack | |
+^    | pick lock  | | | trip | |
+^ 26 | | create food  | | | bloody tears |
+^    | | curse  | | | |
+^ 27 | | continual light  | | | |
+^    | | remove curse  | | | |
+^ 28 | | cure blindness  | fireball | bash | know critical |
+^ 29 | | | | | |
+^ 30 | martial arts | locate object  | sight | nodisarm | martial arts |
+^    | notrip  | | | smash | |
+^ 31 | | poison  | | | |
+^ 32 | | cure poison  | | | visit |
+^ 33 | | | | | |
+^ 34 | | | | beserk  | |
+^ 35 | | | curse  | dirt | mindflame |
+^    | | | summon  | | |
+^ 36 | | call lightning  | remove curse | | |
+^    | | | stone skin  | | |
+^ 37 | | | | | |
+^ 38 | | | | | |
+^ 39 | | | enchant weapon  | | |
+^ 40 | nodisarm | cause serious  | teleport | | |
+^    | | | | notrip  | |
+^    | | | | shield block  | |
+^ 41 | | cure serious  | | | |
+^ 42 | | | | enhanced damage  | |
+^ 43 | | | hellspawn  | | |
+^ 44 | | | | | |
+^ 45 | | decapitate  | | | phase |
+^    | | stake  | | | |
+^ 46 | | | pass door  | | suffocate |
+^ 47 | | | | | |
+^ 48 | | | | | |
+^ 49 | | | charm person  | | |
+^ 50 | | seal room  | acid blast | | fire blade |
+^    | | | | fourth attack | seal room  |
+^ 51 | | | | | |
+^ 52 | | | | | calm  |
+^ 53 | | | | | |
+^ 54 | | flamestrike  | | | |
+^ 55 | | | | | |
+^ 56 | | | | | |
+^ 57 | | | | | |
+^ 58 | | cause critical  | control weather | | |
+^ 59 | | cure critical  | | | |
+^ 60 | third attack | charm person  | mass invis | decapitate | fighting trance |
+^    | | | | stake | nerve fire  |
+^ 61 | | | | | |
+^ 62 | | | | | |
+^ 63 | | | | | |
+^ 64 | | | | | |
+^ 65 | | create spring  | chain lightning | | |
+^ 65 | | influx  | | | |
+^ 66 | | word of recall  | change sex | | |
+^ 67 | | | | | |
+^ 68 | | | dispel magic  | | |
+^ 69 | | | | | |
+^ 70 | | | beacon  | | |
+^    | | | seal room  | | |
+^    | | | window  | | |
+^ 70 | hunt | | | | beacon  |
+^    | | | | | window  |
+^ 71 | | | | | |
+^ 72 | | | | | |
+^ 73 | | | | | |
+^ 74 | | harm  | | | |
+^ 75 | | heal  | | | |
+^ 75 | | | | | emotion control  |
+^ 76 | | | | | |
+^ 77 | | | | | |
+^ 78 | | earthquake  | | | |
+^ 79 | | control weather  | | | |
+^ 80 | | | portal  | | |

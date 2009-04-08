@@ -1,0 +1,7 @@
+spells by class
+
+cle: 41
+war: 25
+thi: 18
+mag: 49
+psi: 33

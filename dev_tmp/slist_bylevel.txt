@@ -1,0 +1,166 @@
+[01:thi] steal 
+[03:mag] armor 
+[03:mag] faerie fire 
+[03:mag] magic missile 
+[03:mag] ventriloquate 
+[04:cle] cause light 
+[04:mag] bad breath 
+[04:psi] mind flail 
+[05:cle] cure light 
+[05:mag] shocking grasp 
+[05:psi] planergy 
+[05:thi] sneak 
+[05:war] punch 
+[05:war] warcry 
+[06:mag] burning hands 
+[06:war] headbutt 
+[07:cle] detect magic 
+[07:mag] colour spray 
+[07:mag] detect magic 
+[07:psi] physic thrust 
+[07:psi] see magic 
+[07:thi] dodge 
+[08:cle] bless 
+[08:cle] detect evil 
+[08:mag] chill touch 
+[08:mag] detect undead 
+[08:psi] barrier 
+[08:war] knee 
+[09:cle] create water 
+[09:mag] identify 
+[09:mag] protection 
+[09:mag] shield 
+[09:mag] sleep 
+[09:psi] know item 
+[09:psi] shadowform 
+[10:cle] detect poison 
+[10:mag] mystic armour 
+[10:psi] phobia 
+[10:psi] sense evil 
+[10:thi] backstab 
+[10:war] parry 
+[10:war] second attack 
+[11:cle] refresh 
+[11:mag] continual light 
+[12:cle] protection 
+[12:cle] sanctuary 
+[12:mag] detect evil 
+[12:psi] mind bolt 
+[12:thi] appraise 
+[12:thi] hide 
+[12:war] disarm 
+[13:mag] know alignment 
+[14:cle] faerie fog 
+[14:psi] hypnosis 
+[14:war] kick 
+[15:thi] second attack 
+[15:war] rescue 
+[16:cle] detect hidden 
+[16:mag] blindness 
+[16:mag] locate object 
+[16:thi] find doors 
+[16:war] dodge 
+[17:mag] detect hidden 
+[17:mag] invis 
+[18:mag] giant strength 
+[18:psi] know weakness 
+[18:thi] trip 
+[19:mag] detect invis 
+[19:psi] night vision 
+[19:psi] physic crush 
+[19:thi] circle 
+[20:cle] bark skin 
+[20:cle] flare 
+[20:cle] weaken 
+[20:mag] infravision 
+[20:psi] static 
+[20:thi] peek 
+[20:war] martial arts 
+[20:war] mount 
+[22:cle] know alignment 
+[22:psi] detection 
+[24:mag] fly 
+[24:mag] lightning bolt 
+[24:psi] produce food 
+[25:psi] ego whip 
+[25:thi] climb 
+[25:thi] pick lock 
+[25:war] third attack 
+[25:war] trip 
+[26:cle] create food 
+[26:cle] curse 
+[26:psi] bloody tears 
+[27:cle] continual light 
+[27:cle] remove curse 
+[28:cle] cure blindness 
+[28:mag] fireball 
+[28:psi] know critical 
+[28:war] bash 
+[30:cle] locate object 
+[30:mag] sight 
+[30:psi] martial arts 
+[30:thi] martial arts 
+[30:thi] notrip 
+[30:war] nodisarm 
+[30:war] smash 
+[31:cle] poison 
+[32:cle] cure poison 
+[32:psi] visit 
+[34:war] beserk 
+[35:mag] curse 
+[35:mag] summon 
+[35:psi] mindflame 
+[35:war] dirt 
+[36:cle] call lightning 
+[36:mag] remove curse 
+[36:mag] stone skin 
+[39:mag] enchant weapon 
+[40:cle] cause serious 
+[40:mag] teleport 
+[40:thi] nodisarm 
+[40:war] notrip 
+[40:war] shield block 
+[41:cle] cure serious 
+[42:war] enhanced damage 
+[43:mag] hellspawn 
+[45:cle] decapitate 
+[45:cle] stake 
+[45:psi] phase 
+[46:mag] pass door 
+[46:psi] suffocate 
+[49:mag] charm person 
+[50:cle] seal room 
+[50:mag] acid blast 
+[50:psi] fire blade 
+[50:psi] seal room 
+[50:war] fourth attack 
+[52:psi] calm 
+[54:cle] flamestrike 
+[58:cle] cause critical 
+[58:mag] control weather 
+[59:cle] cure critical 
+[60:cle] charm person 
+[60:mag] mass invis 
+[60:psi] fighting trance
+[60:psi] nerve fire 
+[60:thi] third attack 
+[60:war] decapitate 
+[60:war] stake 
+[65:cle] create spring 
+[65:cle] influx 
+[65:mag] chain lightning 
+[66:cle] word of recall 
+[66:mag] change sex 
+[68:mag] dispel magic 
+[70:mag] beacon 
+[70:mag] seal room 
+[70:mag] window 
+[70:psi] beacon 
+[70:psi] window 
+[70:thi] hunt 
+[74:cle] harm 
+[75:cle] heal 
+[75:psi] emotion control 
+[78:cle] earthquake 
+[79:cle] control weather 
+[80:mag] portal 

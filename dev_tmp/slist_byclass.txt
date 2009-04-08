@@ -1,0 +1,166 @@
+[cle:04] cause light 
+[cle:05] cure light 
+[cle:07] detect magic 
+[cle:08] bless 
+[cle:08] detect evil 
+[cle:09] create water 
+[cle:10] detect poison 
+[cle:11] refresh 
+[cle:12] protection 
+[cle:12] sanctuary 
+[cle:14] faerie fog 
+[cle:16] detect hidden 
+[cle:20] bark skin 
+[cle:20] flare 
+[cle:20] weaken 
+[cle:22] know alignment 
+[cle:26] create food 
+[cle:26] curse 
+[cle:27] continual light 
+[cle:27] remove curse 
+[cle:28] cure blindness 
+[cle:30] locate object 
+[cle:31] poison 
+[cle:32] cure poison 
+[cle:36] call lightning 
+[cle:40] cause serious 
+[cle:41] cure serious 
+[cle:45] decapitate 
+[cle:45] stake 
+[cle:50] seal room 
+[cle:54] flamestrike 
+[cle:58] cause critical 
+[cle:59] cure critical 
+[cle:60] charm person 
+[cle:65] create spring 
+[cle:65] influx 
+[cle:66] word of recall 
+[cle:74] harm 
+[cle:75] heal 
+[cle:78] earthquake 
+[cle:79] control weather 
+[mag:03] armor 
+[mag:03] faerie fire 
+[mag:03] magic missile 
+[mag:03] ventriloquate 
+[mag:04] bad breath 
+[mag:05] shocking grasp 
+[mag:06] burning hands 
+[mag:07] colour spray 
+[mag:07] detect magic 
+[mag:08] chill touch 
+[mag:08] detect undead 
+[mag:09] identify 
+[mag:09] protection 
+[mag:09] shield 
+[mag:09] sleep 
+[mag:10] mystic armour 
+[mag:11] continual light 
+[mag:12] detect evil 
+[mag:13] know alignment 
+[mag:16] blindness 
+[mag:16] locate object 
+[mag:17] detect hidden 
+[mag:17] invis 
+[mag:18] giant strength 
+[mag:19] detect invis 
+[mag:20] infravision 
+[mag:24] fly 
+[mag:24] lightning bolt 
+[mag:28] fireball 
+[mag:30] sight 
+[mag:35] curse 
+[mag:35] summon 
+[mag:36] remove curse 
+[mag:36] stone skin 
+[mag:39] enchant weapon 
+[mag:40] teleport 
+[mag:43] hellspawn 
+[mag:46] pass door 
+[mag:49] charm person 
+[mag:50] acid blast 
+[mag:58] control weather 
+[mag:60] mass invis 
+[mag:65] chain lightning 
+[mag:66] change sex 
+[mag:68] dispel magic 
+[mag:70] beacon 
+[mag:70] seal room 
+[mag:70] window 
+[mag:80] portal 
+[psi:04] mind flail 
+[psi:05] planergy 
+[psi:07] physic thrust 
+[psi:07] see magic 
+[psi:08] barrier 
+[psi:09] know item 
+[psi:09] shadowform 
+[psi:10] phobia 
+[psi:10] sense evil 
+[psi:12] mind bolt 
+[psi:14] hypnosis 
+[psi:18] know weakness 
+[psi:19] night vision 
+[psi:19] physic crush 
+[psi:20] static 
+[psi:22] detection 
+[psi:24] produce food 
+[psi:25] ego whip 
+[psi:26] bloody tears 
+[psi:28] know critical 
+[psi:30] martial arts 
+[psi:32] visit 
+[psi:35] mindflame 
+[psi:45] phase 
+[psi:46] suffocate 
+[psi:50] fire blade 
+[psi:50] seal room 
+[psi:52] calm 
+[psi:60] fighting trance
+[psi:60] nerve fire 
+[psi:70] beacon 
+[psi:70] window 
+[psi:75] emotion control 
+[thi:01] steal 
+[thi:05] sneak 
+[thi:07] dodge 
+[thi:10] backstab 
+[thi:12] appraise 
+[thi:12] hide 
+[thi:15] second attack 
+[thi:16] find doors 
+[thi:18] trip 
+[thi:19] circle 
+[thi:20] peek 
+[thi:25] climb 
+[thi:25] pick lock 
+[thi:30] martial arts 
+[thi:30] notrip 
+[thi:40] nodisarm 
+[thi:60] third attack 
+[thi:70] hunt 
+[war:05] punch 
+[war:05] warcry 
+[war:06] headbutt 
+[war:08] knee 
+[war:10] parry 
+[war:10] second attack 
+[war:12] disarm 
+[war:14] kick 
+[war:15] rescue 
+[war:16] dodge 
+[war:20] martial arts 
+[war:20] mount 
+[war:25] third attack 
+[war:25] trip 
+[war:28] bash 
+[war:30] nodisarm 
+[war:30] smash 
+[war:34] beserk 
+[war:35] dirt 
+[war:40] notrip 
+[war:40] shield block 
+[war:42] enhanced damage 
+[war:50] fourth attack 
+[war:60] decapitate 
+[war:60] stake 
