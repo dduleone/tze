@@ -226,8 +226,8 @@ const   struct  clan_type      clan_table     [MAX_CLAN]     =
 	},
 	
 	{
-		"@@pS@@migma @@pA@@mlpha @@pM@@mu@@N", "@@d[@@pSAM@@d]@@N",       0, 0, 
-		"Scott Knowlton", " ", { -1, -1, -1, -1 }
+		"@@pS@@migma @@pA@@mlpha @@pM@@mu@@N", "@@d=@@pSAM@@d=@@N",       0, 0, 
+		"David Stern", " ", { -1, -1, -1, -1 }
 		
 	},
 
