@@ -1000,7 +1000,7 @@ void do_mstat( CHAR_DATA *ch, char *argument )
 	strcat( buf1, buf );
     }
 
-    sprintf( buf, "Carry number: %d.  Carry weight: %d.   @@aQuest Points@@W: @@y%3d\n\r",
+    sprintf( buf, "Carry number: %d.  Carry weight: %d.   @@aQuest Points@@W: @@y%3d@@N\n\r",
 	victim->carry_number, victim->carry_weight, victim->quest_points );
     strcat( buf1, buf );
 
