@@ -339,7 +339,7 @@ void do_echo( CHAR_DATA *ch, char *argument )
 	if ( d->connected == CON_PLAYING )
 	{
 	    send_to_char( argument, d->character );
-	    send_to_char( "@@g\n\r",   d->character );
+	    send_to_char( "@@N\n\r",   d->character );
 	}
     }
 
@@ -364,7 +364,7 @@ void do_recho( CHAR_DATA *ch, char *argument )
 	&&   d->character->in_room == ch->in_room )
 	{
 	    send_to_char( argument, d->character );
-	    send_to_char( "@@g\n\r",   d->character );
+	    send_to_char( "@@N\n\r",   d->character );
 	}
     }
 
@@ -844,7 +844,8 @@ void do_ostat( CHAR_DATA *ch, char *argument )
 	    affect_loc_name( paf->location ), paf->modifier );
 	strcat( buf1, buf );
     }
-
+	sprintf (buf, "@@N");
+	strcat( buf1, buf );
     send_to_char( buf1, ch );
     return;
 }
@@ -5040,7 +5041,7 @@ void monitor_chan( const char *message, int channel )
          break;
       }
          
-   sprintf( buf, "@@W[MON:%s]@@g %s%s@@g\n\r", 
+   sprintf( buf, "@@W[MON:%s]@@g %s%s@@N\n\r", 
       monitor_table[a].id, monitor_table[a].col, message );
    
    for ( d = first_desc; d; d = d->next )
