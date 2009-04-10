@@ -3358,12 +3358,6 @@ struct chan_type channels[] = {
 	     "[ +NEWBIE   ] You hear newbie's chit-chat.\n\r",
 	     "[ -newbie   ] You don't hear newbie's chit-chat.\n\r" },
 	    
-
-	    { CHANNEL_QUESTION, 0, "question",
-	    "[ +QUESTION ] You hear player's questions & answers.\n\r",
-	    "[ -question ] You don't hear player's questions & answers.\n\r"},
-	    
-
 	    { CHANNEL_SHOUT,0, "shout",
 	    "[ +SHOUT    ] You hear people shouting.\n\r",
 	    "[ -shout    ] You don't hear people shouting.\n\r"},

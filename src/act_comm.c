@@ -949,19 +949,6 @@ void do_newbie( CHAR_DATA *ch, char *argument )
 
 
 
-void do_question( CHAR_DATA *ch, char *argument )
-{
-    talk_channel( ch, argument, CHANNEL_QUESTION, "question" );
-    return;
-}
-
-
-
-void do_answer( CHAR_DATA *ch, char *argument )
-{
-    talk_channel( ch, argument, CHANNEL_QUESTION, "answer" );
-    return;
-}
 
 
 

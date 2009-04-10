@@ -1643,7 +1643,6 @@ struct magic_shield
 #define CHANNEL_MUSIC                 4
 #define CHANNEL_IMMTALK               8
 #define CHANNEL_NEWBIE               16
-#define CHANNEL_QUESTION             32
 #define CHANNEL_SHOUT                64
 #define CHANNEL_YELL                128
 #define CHANNEL_FLAME               256
@@ -3110,7 +3109,6 @@ DECLARE_DO_FUN( do_howl         );
 
 DECLARE_DO_FUN( do_advance      );
 DECLARE_DO_FUN( do_allow        );
-DECLARE_DO_FUN( do_answer       );
 DECLARE_DO_FUN( do_areas        );
 DECLARE_DO_FUN( do_at           );
 DECLARE_DO_FUN( do_auction      );
@@ -3222,7 +3220,6 @@ DECLARE_DO_FUN( do_prompt       );
 DECLARE_DO_FUN( do_purge        );
 DECLARE_DO_FUN( do_put          );
 DECLARE_DO_FUN( do_quaff        );
-DECLARE_DO_FUN( do_question     );
 DECLARE_DO_FUN( do_quest2	);
 DECLARE_DO_FUN( do_qui          );
 DECLARE_DO_FUN( do_quit         );

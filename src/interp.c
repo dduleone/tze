@@ -170,7 +170,6 @@ const   struct  cmd_type        cmd_table       [] =
     /*
      * Communication commands.
      */
-    { "answer",         do_answer,      POS_RESTING,     0,  LOG_NORMAL },
     { "ask",            do_ask,         POS_RESTING,     0,  LOG_NORMAL },
     { "beep",		do_beep,	POS_RESTING,	0,  LOG_NORMAL },
     { "clan",           do_clan,        POS_RESTING,    CLAN_ONLY,  LOG_NORMAL },
@@ -192,7 +191,6 @@ const   struct  cmd_type        cmd_table       [] =
     { "pray",           do_pray,        POS_RESTING,     0,  LOG_NORMAL },
     { "quest",          do_quest2,      POS_RESTING,     0,  LOG_NORMAL },
 
-    { "question",       do_question,    POS_SLEEPING,    0,  LOG_NORMAL },
     { "race",           do_race,        POS_RESTING,     0,  LOG_NORMAL },
     { "reply",          do_reply,       POS_RESTING,     0,  LOG_NORMAL },
     { "say",            do_say,         POS_RESTING,     0,  LOG_NORMAL },
