@@ -2387,7 +2387,6 @@ void do_equipment( CHAR_DATA *ch, char *argument )
 {
     OBJ_DATA *obj;
     int iWear;
-    bool found;
 
     if ( !IS_NPC( ch ) && IS_WOLF( ch )
        && ( IS_SHIFTED( ch ) || IS_RAGED( ch )  )   )
@@ -2397,27 +2396,22 @@ void do_equipment( CHAR_DATA *ch, char *argument )
     }
  
     send_to_char( "You are using:\n\r", ch );
-    found = FALSE;
     for ( iWear = 0; iWear < MAX_WEAR; iWear++ )
     {
-	if ( ( obj = get_eq_char( ch, iWear ) ) == NULL )
-	    continue;
+		send_to_char( where_name[iWear], ch );
+		if ( ( obj = get_eq_char( ch, iWear ) ) == NULL )
+			send_to_char( "(empty)\n\r", ch );
 
-	send_to_char( where_name[iWear], ch );
-	if ( can_see_obj( ch, obj ) )
-	{
-	    send_to_char( format_obj_to_char( obj, ch, TRUE ), ch );
-	    send_to_char( "\n\r", ch );
-	}
-	else
-	{
-	    send_to_char( "something.\n\r", ch );
-	}
-	found = TRUE;
+		else if ( can_see_obj( ch, obj ) )
+		{
+		    send_to_char( format_obj_to_char( obj, ch, TRUE ), ch );
+		    send_to_char( "\n\r", ch );
+		}
+		else
+		{
+		    send_to_char( "something.\n\r", ch );
+		}
     }
-
-    if ( !found )
-	send_to_char( "Nothing.\n\r", ch );
 
     return;
 }
